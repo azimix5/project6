@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+.project{
+    width:300px;
+    height: 1000px;
+    background-color: white;
+    position: relative;
+    left: 30%;
+    font-family: 'Raleway', sans-serif;
+    border: solid 1px gray;
+}
+.img1{
+    margin-left: 30px;
+}
+.date1{
+    position: relative;
+    left: 100px;
+}
+.input1{
+    border: none;
+    width: 200px;
+    height: 50px;
+    font-size: larger;
+}
+.img2{
+    margin-left: 50px;
+    width: 13px;
+    height: 8px;
+
+}
+.choose{
+    position: relative;
+    left: 100px;
+}
+.img3{
+    position: relative;
+    left: 38px;
+    width: 13px;
+    height: 8px;
+}
+.tasktype{
+    margin-left: 30px;
+    border:none ;
+}
+.work{
+    background-color: rgb(7, 86, 120);
+    border:none ;
+    margin: 8px;
+}
+.personal1{
+    background-color: aqua;
+    border:none ;
+    margin: 8px;
+}
+.shopping1{
+    background-color: blueviolet;
+    border:none ;
+    margin: 8px;
+}
+.health1{
+    background-color: rgb(255, 0, 132);
+    border:none ;
+    margin: 8px;
+}
+.other{
+    background-color: purple;
+    border:none ;
+    margin: 8px;
+}
+.discription{
+    margin-top: 8px;
+    font-size: 20px;
+    border: none;
+}

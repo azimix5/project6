@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+.project{
+    width:300px;
+    height: 1000px;
+    background-color: white;
+    position: relative;
+    left: 30%;
+    font-family: 'Raleway', sans-serif;
+    border: solid 1px gray;
+}
+.hey{
+    font-size: smaller;
+   
+}
+
+.task{
+    font-size: 10px;
+   
+}
+.class16{
+display: inline;
+
+} 
+.left{
+    font-size: 10px;
+    display: inline;
+    position: relative;
+    left: 180px;
+}
+.plus{
+    position: relative;
+    left:50px;
+    background-color: rgb(230, 83, 108);
+    border: none;
+    color: white;
+    width: 20px;
+    height: 20px;
+}
+.class12{
+    position: relative;
+    left: 180px;
+}
+.bigdiv1{
+    /* display: inline; */
+}
+.bigdiv2{ 
+    /* display: inline; */
+    /* flex-wrap: ; */
+}
+.bigdiv{
+    display: flex;
+}
+.task7{
+    font-size:  10px; 
+}
+.div8{
+    display: flex;
+}
+.task1{
+    font-size: 10px;
+    position: relative;
+    left: 150px;
+    top: 18px;
+
+}
+.personal{
+    position: relative;
+    left: 180px;
+}
+.dotted1{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: rgb(23, 85, 85);
+    position: relative;
+    right: 60px;
+}
+.dotted2{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: rgb(145, 239, 239);
+    position: relative;
+    left: 185px;
+}
+.golakh{
+    display:flex;
+}
+.task2{
+    font-size: 10px;
+}
+.task22{
+    font-size: 10px;
+    position: relative ;
+    left: 250px;
+    bottom: 30px ;
+}
+.health{
+    position: relative;
+    left: 230px;
+    bottom:35px ;
+}
+.dotted3{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: purple;
+    position: relative;
+    left: 63px;
+    bottom: 38px ;
+}
+.dotted4{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: rgb(197, 68, 42);
+    position: relative;
+    left: 280px;
+    bottom: 38px ;
+}
+ul{
+    list-style:none;
+    padding: 0;
+    display:inline;
+}
+.bluebox{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(103, 103, 204);
+    border-radius: 5px;
+    position: relative;
+    left: 80px;
+    bottom: 150px;
+    color: white;
+}
+.dotted5{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 185px;
+    bottom: 10px;
+}
+.box1{
+    width: 200px;
+    height: 45px;
+    color: black;
+    position: relative;
+    left: 80px;
+    bottom: 100px;
+    box-shadow: 3px 3px gray;
+
+}
+.dotted6{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color:rgb(138, 36, 36);
+    position: relative;
+    left: 185px;
+    bottom: 30px;
+}
